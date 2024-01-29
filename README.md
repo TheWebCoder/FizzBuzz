@@ -13,7 +13,7 @@ FizzBuzz is a classic coding challenge and this JavaScript project brings it to 
 ## How to Use
 - **Home Page**: Provides an introduction and overview of the FizzBuzz project. 
 - **The App**: The main section where users can see the FizzBuzz algorithm. 
-- **The Code**: Insight into the code, showcasing the logic and structure behind the FizzBuzz solution. 
+- **The Code**: Insight into the code, showing the logic and structure behind this app. 
 
 ## Technology Stack
 - **HTML**
